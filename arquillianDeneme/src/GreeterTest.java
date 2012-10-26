@@ -9,6 +9,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
+/*deneme testleri burada olacak*/
 @RunWith(Arquillian.class)
 public class GreeterTest {
 	
